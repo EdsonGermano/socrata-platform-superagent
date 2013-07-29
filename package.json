@@ -37,7 +37,7 @@
       "superagent": "lib/client.js"
     }
   },
-  "files": [ "lib/client.js" ],
+  "files": [ "lib/client.js", "lib/node" ],
   "main": "lib/node",
   "engines": {
     "node": "*"
